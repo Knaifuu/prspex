@@ -1,0 +1,22 @@
+{
+    "849611723026726912": {
+        "settings": {
+            "prefix": "px ",
+            "automod": 0
+        },
+        "moderation": false
+    },
+    "942197215177359390": {
+        "settings": {
+            "prefix": ",",
+            "automod": 20
+        },
+        "moderation": false
+    },
+    "980927431978410084": {
+        "settings": {
+            "prefix": "px "
+        },
+        "moderation": false
+    }
+}
